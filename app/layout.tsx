@@ -16,7 +16,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Join Simesta Waitlist",
   description: "Join our community of learners waiting to take their learning experience to the next level with the Simesta AI assistant.",
-  keywords: ["Simesta", "AI assistant", "learning experience"],
+  keywords: ["Simesta", "AI assistant", "learning experience", "Learning Assistant", "Simesta assistant", "learning method", "learning platform", "online learning"],
   // icon
   icons: {
     icon: "/logo.png",
